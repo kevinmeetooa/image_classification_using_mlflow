@@ -1,0 +1,13 @@
+mlflow==2.4
+google-api-python-client==2.81.0
+google-cloud-storage==1.31.0
+numpy==1.22.4
+packaging==23.0
+pandas==1.4.2
+pathlib==1.0.1
+pillow==9.0.1
+protobuf==4.22.1
+requests==2.27.1
+scipy==1.7.3
+tensorflow==2.12.1
+hyperopt==0.2.7
